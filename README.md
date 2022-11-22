@@ -34,7 +34,11 @@ All the styling inside Jekyll is defined inside themes. We are using the theme m
 
 #### Step 2.2 Fork ("copy") the repository with the theme to your own user account and name the repo ```YourUserName.github.io```
 
-Make sure that you are logged into your own GitHub account. Then follow the images and folk and then rename the repository.
+Make sure that you are logged into your own GitHub account. Then follow the images to
+1. Create your **Folk** of the repository
+2. Name it in the form ```YourUserName.github.io```.
+
+**ATTENTION:** User your own UserName instead of ```mbbbraehler``` shown on the screenshot!
 
 ![Fork Minima](221122ForkMinima.png)
 
