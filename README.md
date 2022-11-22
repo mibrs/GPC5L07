@@ -18,7 +18,7 @@ Let's get started.
 ### Step 1 - Archive your exisiting website
 Just open the repository containing your website and then follow steps 1 to 4. You will save it in a new repository under a different name.
 
-![Rename repository](221122 RenameGhRepo.png)
+![Rename repository](221122RenameGhRepo.png)
 
 You can still access your site with the URL ```https:YourUserName.github.io/NewRepositoryName```.
 
