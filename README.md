@@ -67,5 +67,5 @@ Check the repository and clone its contents on your computer. You find several p
 BEAP is a library of modules that make audio synthezise easier. Each module is built with many MAX and MSP objects, but you only see what is important to creat synthezised sound. 
 
 Have a look at [this video](https://youtu.be/RhsQLUFLOAg)
-![BEAP Video 1](221122 BEAP1.png)
+![BEAP Video 1](221122BEAP1.png)
 
