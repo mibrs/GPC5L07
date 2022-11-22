@@ -64,10 +64,10 @@ Another approach is to have a look at my site [mibrs](https://github.com/mibrs/m
 Check the repository and clone its contents on your computer. You find several patches that you can try out and modify. Start with the patches containing MAX in their name. You may use Audacity to record one session using one of the patches. 
 
 ## Introduction to BEAP, and some patches
-BEAP is a library of modules that make audio synthezise easier. Each module is built with many MAX and MSP objects, but you only see what is important with easy to adjust knobs so you can create synthezised sound. 
+BEAP is a library of modules that make audio synthesis easier. Each module is built with many MAX and MSP objects, but the complexity is hidden and you only see an easy to use interface. 
 
 Have a look at [this video](https://youtu.be/RhsQLUFLOAg)
-![BEAP Video 1](221122BEAP1.png)
+![BEAP Video 1](221122BEAP1.png) to get an idea what you can do with BEAP.
 
-When implementing the patch, replace the ```MIDI IN``` module with a ```Keyboard``` module, you find it with BEAP/Inputs. For the outlets, hover over them with the mouse and their names and a short description will show up.
+When implementing the patch shown on the video, replace the ```MIDI IN``` module with a ```Keyboard``` module, you find it with BEAP/Inputs. For the outlets, hover over them with the mouse and their names and a short description will show up.
 
