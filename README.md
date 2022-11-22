@@ -56,8 +56,16 @@ Now you need to wait for some time (seconds to minutes) before the changes are u
 ### Step 3 - Create your first post
 Next, open [this](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll#about-content-in-jekyll-sites) page and scroll down to **Adding a new post to your site**. Follow the instructions until step 8. Then choose for step 9 ```Commit directly to the main branch```. You are done! Give GitHub a few seconds to update your site, then check on ```YourUserName.github.io``` to see your website and open the post.
 
+Another approach is to have a look at my site [mibrs](https://github.com/mibrs/mibrs.github.io), the repository is using the same theme. Just have a look how the posts and assets look like, copy and paste content as you please and then start to modify your own site as you like.
+
+## Quick introduction to sound amplitudes and pitch/frequency
+
 ## Some more MAX patches with MIDI
+Check the repository and clone its contents on your computer. You find several patches that you can try out and modify. Start with the patches containing MAX in their name. You may use Audacity to record one session using one of the patches. 
 
 ## Introduction to BEAP, and some patches
+BEAP is a library of modules that make audio synthezise easier. Each module is built with many MAX and MSP objects, but you only see what is important to creat synthezised sound. 
 
+Have a look at [this video](https://youtu.be/RhsQLUFLOAg)
+![BEAP Video 1](221122 BEAP1.png)
 
