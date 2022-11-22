@@ -25,7 +25,27 @@ You can still access your site with the URL ```https:YourUserName.github.io/NewR
 ![Access Repo on Web](221122GhAccessRepoOnWeb.png)
 
 ### Step 2 - Create your new website
-Now we generate our new website with Jekyll. Follow the instructions [here](https://docs.github.com/en/pages/quickstart) to set up your basic site.
+Now we generate our new website with Jekyll.
+
+#### Step 2.1 Find the Jekyll theme minima on GitHub.
+All the styling inside Jekyll is defined inside themes. We are using the theme minima. You find it [here](https://github.com/jekyll/minima)
+
+![Jekyll Minima on GitHub](221122JekyllMinimaRepo.png)
+
+#### Step 2.2 Fork ("copy") the repository with the theme to your own user account and name the repo ```YourUserName.github.io```
+
+Make sure that you are logged into your own GitHub account. Then follow the images and folk and then rename the repository.
+
+![Fork Minima](221122ForkMinima.png)
+
+![Rename Fork](221122NameFolkGh.png)
+
+#### Step 2.3 Configure GitHub to use Jekyll with your theme
+Next, go back and open the repository, then choose Pages on the left side menu and make the entries as shown. Do not forget to click on ```Save``` once you are finished.
+
+#### Step 2.4 Finished
+Now you need to wait for some time (seconds to minutes) before the changes are updated on the GitHub servers and you can access your website. The website contains a lot of content that you do not want to keep. Wait for Step 3 before you start to clean up and make the site your own.
+
 
 ### Step 3 - Create your first post
 Next, open [this](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll#about-content-in-jekyll-sites) page and scroll down to **Adding a new post to your site**. Follow the instructions until step 8. Then choose for step 9 ```Commit directly to the main branch```. You are done! Give GitHub a few seconds to update your site, then check on ```YourUserName.github.io``` to see your website and open the post.
