@@ -43,6 +43,8 @@ Make sure that you are logged into your own GitHub account. Then follow the imag
 #### Step 2.3 Configure GitHub to use Jekyll with your theme
 Next, go back and open the repository, then choose Pages on the left side menu and make the entries as shown. Do not forget to click on ```Save``` once you are finished.
 
+![Configure Gh Pages](221122ConfigureGhPages.png)
+
 #### Step 2.4 Finished
 Now you need to wait for some time (seconds to minutes) before the changes are updated on the GitHub servers and you can access your website. The website contains a lot of content that you do not want to keep. Wait for Step 3 before you start to clean up and make the site your own.
 
