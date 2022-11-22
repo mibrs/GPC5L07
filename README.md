@@ -59,9 +59,14 @@ Next, open [this](https://docs.github.com/en/pages/setting-up-a-github-pages-sit
 Another approach is to have a look at my site [mibrs](https://github.com/mibrs/mibrs.github.io), the repository is using the same theme. Just have a look how the posts and assets look like, copy and paste content as you please and then start to modify your own site as you like.
 
 ## Quick introduction to sound amplitudes and pitch/frequency
+[Ableton Learning Synths](https://learningsynths.ableton.com/) is a website that explains the basics of sound synthesise in an interactive way. The key properties of sound you should know about are
+- amplitude
+- pitch and frequency, and 
+- envelope. 
+They are explained on this site. So, go there, get to know the meaning of the four key terms and then come back here and try out the patches. Just clone the repository, unpack its content and identify the patches (extension maxpat).
 
 ## Some more MAX patches with MIDI
-Check the repository and clone its contents on your computer. You find several patches that you can try out and modify. Start with the patches containing MAX in their name. You may use Audacity to record one session using one of the patches. 
+You find several starter patches that you can try out and modify. Start with the patches containing MAX in their name. You may use Audacity to record one session using one of the patches. 
 
 ## Introduction to BEAP, and some patches
 BEAP is a library of modules that make audio synthesis easier. Each module is built with many MAX and MSP objects, but the complexity is hidden and you only see an easy to use interface. 
