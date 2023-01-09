@@ -72,6 +72,7 @@ You find several starter patches that you can try out and modify. Start with the
 BEAP is a library of modules that make audio synthesis easier. Each module is built with many MAX and MSP objects, but the complexity is hidden and you only see an easy to use interface. 
 
 Have a look at [this video](https://youtu.be/RhsQLUFLOAg)
+
 ![BEAP Video 1](/media/221122BEAP1.png) to get an idea what you can do with BEAP.
 
 When implementing the patch shown on the video, replace the ```MIDI IN``` module with a ```Keyboard``` module, you find it with BEAP/Inputs. For the outlets, hover over them with the mouse and their names and a short description will show up.
