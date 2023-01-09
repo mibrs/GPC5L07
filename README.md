@@ -18,11 +18,11 @@ Let's get started.
 ### Step 1 - Archive your exisiting website
 Just open the repository containing your website and then follow steps 1 to 4. You will save it in a new repository under a different name.
 
-![Rename repository](221122RenameGhRepo.png)
+![Rename repository](/media/221122RenameGhRepo.png)
 
 You can still access your site with the URL ```https:YourUserName.github.io/NewRepositoryName```.
 
-![Access Repo on Web](221122GhAccessRepoOnWeb.png)
+![Access Repo on Web](/media/221122GhAccessRepoOnWeb.png)
 
 ### Step 2 - Create your new website
 Now we generate our new website with Jekyll.
@@ -30,7 +30,7 @@ Now we generate our new website with Jekyll.
 #### Step 2.1 Find the Jekyll theme minima on GitHub.
 All the styling inside Jekyll is defined inside themes. We are using the theme minima. You find it [here](https://github.com/jekyll/minima)
 
-![Jekyll Minima on GitHub](221122JekyllMinimaRepo.png)
+![Jekyll Minima on GitHub](/media/221122JekyllMinimaRepo.png)
 
 #### Step 2.2 Fork ("copy") the repository with the theme to your own user account and name the repo ```YourUserName.github.io```
 
@@ -40,14 +40,14 @@ Make sure that you are logged into your own GitHub account. Then follow the imag
 
 **ATTENTION:** User your own UserName instead of ```mbbbraehler``` shown on the screenshot!
 
-![Fork Minima](221122ForkMinima.png)
+![Fork Minima](/media/221122ForkMinima.png)
 
-![Rename Fork](221122NameFolkGh.png)
+![Rename Fork](/media/221122NameFolkGh.png)
 
 #### Step 2.3 Configure GitHub to use Jekyll with your theme
 Next, go back and open the repository, then choose Pages on the left side menu and make the entries as shown. Do not forget to click on ```Save``` once you are finished.
 
-![Configure Gh Pages](221122ConfigureGhPages.png)
+![Configure Gh Pages](/media/221122ConfigureGhPages.png)
 
 #### Step 2.4 Finished
 Now you need to wait for some time (seconds to minutes) before the changes are updated on the GitHub servers and you can access your website. The website contains a lot of content that you do not want to keep. Wait for Step 3 before you start to clean up and make the site your own.
@@ -72,7 +72,7 @@ You find several starter patches that you can try out and modify. Start with the
 BEAP is a library of modules that make audio synthesis easier. Each module is built with many MAX and MSP objects, but the complexity is hidden and you only see an easy to use interface. 
 
 Have a look at [this video](https://youtu.be/RhsQLUFLOAg)
-![BEAP Video 1](221122BEAP1.png) to get an idea what you can do with BEAP.
+![BEAP Video 1](/media/221122BEAP1.png) to get an idea what you can do with BEAP.
 
 When implementing the patch shown on the video, replace the ```MIDI IN``` module with a ```Keyboard``` module, you find it with BEAP/Inputs. For the outlets, hover over them with the mouse and their names and a short description will show up.
 
